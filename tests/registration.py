@@ -31,7 +31,8 @@ valid_datas = {
 
 invalid_name_datas = {
     'argnames': 'userName,password',
-    'argvalues': [('lJHMswktSGGmVwZGQLUBnSgHEQgNItCyteMFLcpu8745', '123456Ab'), ('0', '123456Ab'), ('1234', '123456Ab'), ('Русяз', '123456Ab'), ('Select* FROM NAMES', '123456Ab'),
+    'argvalues': [('lJHMswktSGGmVwZGQLUBnSgHEQgNItCyteMFLcpu8745', '123456Ab'), ('0', '123456Ab'),
+                  ('1234', '123456Ab'), ('Русяз', '123456Ab'), ('Select* FROM NAMES', '123456Ab'),
                   ('<i>name<i>', '123456Ab'), ('', '123456Ab'), ('qwertyuiopasdfghjklzxcvbnm', '123456Ab'),
                   ('Name.', '123456Ab'), ('________', '123456Ab'), (' Name ', '123456Ab')]}
 
